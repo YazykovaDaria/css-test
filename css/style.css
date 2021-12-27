@@ -66,3 +66,25 @@ ul li {
 img {
 	vertical-align: top;
 }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-size: inherit;
+	font-weight: 400;
+}
+
+body {
+	padding: 30px;
+}
+
+.block {
+	background: url('../img/Простой-пейзаж.jpg') 50% 50%/100% no-repeat fixed;
+
+	height: 300px;
+	border-radius: 15px;
+	box-shadow: 0 0 10px #000;
+}
